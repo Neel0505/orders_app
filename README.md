@@ -2,6 +2,7 @@
 
 A Flutter-based cross-platform application to manage and display open stock orders.
 This project demonstrates a clean, modern UI with interactive components (search, filters, dialogs, bottom sheets) and a modular approach for future scalability.
+---
 <img width="200" height="423.5" alt="Screenshot_20250904_130125" src="https://github.com/user-attachments/assets/542bb04b-f2fc-4c95-9d7a-813ad7be3145" />
 
 ---
